@@ -11,7 +11,7 @@ export default () => {
             <ul>
                 {categories.map((category, index) => {
                     return(
-                        <li className={classNames({'active': index === 0})}>{category}</li>
+                        <li className={classNames({'active': index === 0})}> {category} </li>
                     )
                 })}
             </ul>
