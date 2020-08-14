@@ -8,7 +8,7 @@ export default function App() {
                 <div className="content">
                     <div className="container">
                         <div className="content__top">
-                            <Categories />
+                            <Categories onClick={() => console.log('by')} />
                             <div className="sort">
                                 <div className="sort__label">
                                     <svg

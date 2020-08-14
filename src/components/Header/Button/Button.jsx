@@ -3,9 +3,8 @@ import classNames from 'classnames'
 
 
 
-export default (props) => {
+export default ({className, children, onClick}) => {
 
-        const{className, children} = props
         return(
                 <button className={classNames('button', {'button--cart': className})}>{children}</button>
         )
