@@ -1,11 +1,10 @@
-import React, { useState } from 'react'
+import React from 'react'
 import classNames from 'classnames'
 
 
 
-export default (props) => {
+export default ({className, children}) => {
 
-        const{className, children} = props
         return(
                 <button className={classNames('button', {'button--cart': className})}>{children}</button>
         )

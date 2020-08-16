@@ -15,7 +15,7 @@ export default () => {
                     </div>
                 </div>
                 <div className="header__cart">
-                    <Button className>
+                    <Button className >
                             <span>520 ₽</span>
                             <div className="button__delimiter"></div>
                             <svg
