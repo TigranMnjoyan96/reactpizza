@@ -1,0 +1,27 @@
+-------------------- Auto-Git Log --------------------
+		Mon Aug 17 2020 23:49:15 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+
+
+Created files:
+* .history/src/App_20200817234512.js
+* .history/src/App_20200817234518.js
+* .history/src/App_20200817234659.js
+* .history/src/App_20200817234709.js
+* .history/src/App_20200817234736.js
+* .history/src/App_20200817234744.js
+* .history/src/App_20200817234753.js
+* .history/src/App_20200817234826.js
+* .history/src/App_20200817234833.js
+* .history/src/App_20200817234842.js
+* .history/src/App_20200817234849.js
+* .history/src/App_20200817234857.js
+
+
+Deleted files:
+
+
+Renamed files:
