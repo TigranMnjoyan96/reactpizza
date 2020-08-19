@@ -4,7 +4,7 @@ import classNames from 'classnames'
 export default () => {
 
     // State
-    const [ showPopup, setShowPopup ] = useState(false)
+    const [ showPopup, setShowPopup ] = useState(false )
     const [ sortItem ] = useState([ 'популярности', 'цене', 'алфавиту' ] )
     const [ activeItem, setActiveItem ] = useState(0)
 
@@ -20,10 +20,7 @@ export default () => {
 
     // -----------
     const hidePopupHandler = (e) => {
-       if(!e.path.includes(sortRef.current)) {
-            setShowPopup(false)
-       }
-
+       console.log(e.path.includes(sortRef.current))
     }
 
     const showPopupHandler = () => {

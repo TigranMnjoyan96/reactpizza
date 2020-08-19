@@ -20,8 +20,13 @@ export default () => {
 
     // -----------
     const hidePopupHandler = (e) => {
-       if(!e.path.includes(sortRef.current)) {
-            setShowPopup(false)
+       if(e.path.includes(sortRef)) {
+           console.log('ka')
+           setShowPopup(true)
+       } else {
+           console.log('chka')
+        setShowPopup(false)
+
        }
 
     }

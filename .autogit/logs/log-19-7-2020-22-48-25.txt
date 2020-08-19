@@ -1,0 +1,44 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 19 2020 22:48:25 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Sort/Sort.jsx
+
+
+Created files:
+* .autogit/logs/log-19-7-2020-22-18-24.txt
+* .history/src/components/Sort/Sort_20200819222448.jsx
+* .history/src/components/Sort/Sort_20200819222641.jsx
+* .history/src/components/Sort/Sort_20200819222756.jsx
+* .history/src/components/Sort/Sort_20200819222826.jsx
+* .history/src/components/Sort/Sort_20200819223053.jsx
+* .history/src/components/Sort/Sort_20200819223119.jsx
+* .history/src/components/Sort/Sort_20200819223317.jsx
+* .history/src/components/Sort/Sort_20200819223357.jsx
+* .history/src/components/Sort/Sort_20200819223811.jsx
+* .history/src/components/Sort/Sort_20200819223858.jsx
+* .history/src/components/Sort/Sort_20200819223946.jsx
+* .history/src/components/Sort/Sort_20200819224044.jsx
+* .history/src/components/Sort/Sort_20200819224045.jsx
+* .history/src/components/Sort/Sort_20200819224104.jsx
+* .history/src/components/Sort/Sort_20200819224120.jsx
+* .history/src/components/Sort/Sort_20200819224155.jsx
+* .history/src/components/Sort/Sort_20200819224212.jsx
+* .history/src/components/Sort/Sort_20200819224213.jsx
+* .history/src/components/Sort/Sort_20200819224218.jsx
+* .history/src/components/Sort/Sort_20200819224219.jsx
+* .history/src/components/Sort/Sort_20200819224633.jsx
+* .history/src/components/Sort/Sort_20200819224648.jsx
+* .history/src/components/Sort/Sort_20200819224708.jsx
+* .history/src/components/Sort/Sort_20200819224717.jsx
+* .history/src/components/Sort/Sort_20200819224732.jsx
+* .history/src/components/Sort/Sort_20200819224739.jsx
+* .history/src/components/Sort/Sort_20200819224740.jsx
+* .history/src/components/Sort/Sort_20200819224750.jsx
+
+
+Deleted files:
+
+
+Renamed files:
