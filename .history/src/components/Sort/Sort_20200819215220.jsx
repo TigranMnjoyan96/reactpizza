@@ -15,7 +15,7 @@ export default () => {
 
 
     const hidePopupHandler = (e) => {
-       
+        console.log(e.path[0].classList.contains('active'))
     }
 
     const showPopupHandler = () => {

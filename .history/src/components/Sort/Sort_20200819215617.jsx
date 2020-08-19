@@ -15,7 +15,9 @@ export default () => {
 
 
     const hidePopupHandler = (e) => {
-       
+        if(e.path.classList.contain('sort__label')) {
+            console.log('yes')
+        }
     }
 
     const showPopupHandler = () => {

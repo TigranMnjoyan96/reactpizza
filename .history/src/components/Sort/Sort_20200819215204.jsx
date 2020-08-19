@@ -11,11 +11,12 @@ export default () => {
     // Effect
     useEffect(() => {
         document.body.addEventListener('click', hidePopupHandler)
-    }, [showPopup])
+    }, [])
+
 
 
     const hidePopupHandler = (e) => {
-       
+        console.log(e.path[0].classList.contains('active'))
     }
 
     const showPopupHandler = () => {

@@ -1,0 +1,86 @@
+-------------------- Auto-Git Log --------------------
+		Tue Aug 18 2020 00:19:26 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* src/components/index.js
+
+
+Created files:
+* .autogit/logs/log-17-7-2020-23-49-15.txt
+* .history/package_20200808222427.json
+* .history/package_20200817235415.json
+* .history/package_20200817235417.json
+* .history/package_20200817235418.json
+* .history/package_20200817235420.json
+* .history/package_20200817235421.json
+* .history/package_20200817235422.json
+* .history/package_20200817235424.json
+* .history/package_20200817235450.json
+* .history/package_20200817235451.json
+* .history/package_20200818001034.json
+* .history/src/App_20200817235024.js
+* .history/src/App_20200817235028.js
+* .history/src/App_20200817235037.js
+* .history/src/App_20200817235040.js
+* .history/src/App_20200817235050.js
+* .history/src/App_20200817235054.js
+* .history/src/App_20200817235102.js
+* .history/src/App_20200817235108.js
+* .history/src/App_20200817235109.js
+* .history/src/App_20200817235113.js
+* .history/src/App_20200817235114.js
+* .history/src/App_20200817235116.js
+* .history/src/App_20200817235117.js
+* .history/src/App_20200817235134.js
+* .history/src/App_20200817235139.js
+* .history/src/App_20200817235142.js
+* .history/src/App_20200817235143.js
+* .history/src/App_20200817235205.js
+* .history/src/App_20200817235207.js
+* .history/src/App_20200817235212.js
+* .history/src/App_20200817235213.js
+* .history/src/App_20200817235214.js
+* .history/src/App_20200817235250.js
+* .history/src/App_20200817235313.js
+* .history/src/App_20200817235315.js
+* .history/src/App_20200817235457.js
+* .history/src/App_20200817235511.js
+* .history/src/App_20200817235600.js
+* .history/src/App_20200817235604.js
+* .history/src/App_20200817235606.js
+* .history/src/App_20200817235918.js
+* .history/src/App_20200817235922.js
+* .history/src/App_20200817235925.js
+* .history/src/App_20200817235932.js
+* .history/src/App_20200818000620.js
+* .history/src/App_20200818000621.js
+* .history/src/App_20200818000633.js
+* .history/src/App_20200818000819.js
+* .history/src/App_20200818000912.jsx
+* .history/src/App_20200818000917.jsx
+* .history/src/App_20200818000918.jsx
+* .history/src/App_20200818000920.jsx
+* .history/src/components/Sort/Sort_20200817235453.jsx
+* .history/src/components/Sort/Sort_20200817235454.jsx
+* .history/src/components/Sort/Sort_20200818000623.jsx
+* .history/src/components/Sort/Sort_20200818000624.jsx
+* .history/src/components/Sort/Sort_20200818000625.jsx
+* .history/src/components/Sort/Sort_20200818001030.jsx
+* .history/src/components/index_20200818000924.js
+* .history/src/components/index_20200818000925.js
+* .history/src/components/index_20200818000926.js
+* .history/src/components/index_20200818000932.js
+* .history/src/components/index_20200818001019.js
+* .history/src/components/index_20200818001021.js
+* .history/src/components/index_20200818001022.js
+* .history/src/components/index_20200818001023.js
+* src/App.jsx
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]

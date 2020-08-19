@@ -15,7 +15,7 @@ export default () => {
 
 
     const hidePopupHandler = (e) => {
-       
+        console.log('useEffect')
     }
 
     const showPopupHandler = () => {

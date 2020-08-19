@@ -16,6 +16,7 @@ export default () => {
 
     const hidePopupHandler = (e) => {
        
+       console.log(e.path, 5555)
     }
 
     const showPopupHandler = () => {

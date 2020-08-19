@@ -15,7 +15,8 @@ export default () => {
 
 
     const hidePopupHandler = (e) => {
-       
+       let a = e.path.map(e =>  e)
+       console.log(a)
     }
 
     const showPopupHandler = () => {
