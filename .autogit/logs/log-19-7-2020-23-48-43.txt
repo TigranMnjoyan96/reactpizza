@@ -1,0 +1,54 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 19 2020 23:48:43 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Sort/Sort.jsx
+* src/scss/components/_sort.scss
+
+
+Created files:
+* .autogit/logs/log-19-7-2020-23-18-33.txt
+* .history/src/components/Sort/Sort_20200819232311.jsx
+* .history/src/components/Sort/Sort_20200819232451.jsx
+* .history/src/components/Sort/Sort_20200819232531.jsx
+* .history/src/components/Sort/Sort_20200819232538.jsx
+* .history/src/components/Sort/Sort_20200819232558.jsx
+* .history/src/components/Sort/Sort_20200819232559.jsx
+* .history/src/components/Sort/Sort_20200819232630.jsx
+* .history/src/components/Sort/Sort_20200819232643.jsx
+* .history/src/components/Sort/Sort_20200819232709.jsx
+* .history/src/components/Sort/Sort_20200819232735.jsx
+* .history/src/components/Sort/Sort_20200819232736.jsx
+* .history/src/components/Sort/Sort_20200819232752.jsx
+* .history/src/components/Sort/Sort_20200819232817.jsx
+* .history/src/components/Sort/Sort_20200819232818.jsx
+* .history/src/components/Sort/Sort_20200819232835.jsx
+* .history/src/components/Sort/Sort_20200819232850.jsx
+* .history/src/components/Sort/Sort_20200819232859.jsx
+* .history/src/components/Sort/Sort_20200819232900.jsx
+* .history/src/components/Sort/Sort_20200819232903.jsx
+* .history/src/components/Sort/Sort_20200819232933.jsx
+* .history/src/components/Sort/Sort_20200819232949.jsx
+* .history/src/components/Sort/Sort_20200819233233.jsx
+* .history/src/scss/components/_sort_20200806223948.scss
+* .history/src/scss/components/_sort_20200819233325.scss
+* .history/src/scss/components/_sort_20200819233430.scss
+* .history/src/scss/components/_sort_20200819233437.scss
+* .history/src/scss/components/_sort_20200819233513.scss
+* .history/src/scss/components/_sort_20200819233535.scss
+* .history/src/scss/components/_sort_20200819233542.scss
+* .history/src/scss/components/_sort_20200819233546.scss
+* .history/src/scss/components/_sort_20200819233601.scss
+* .history/src/scss/components/_sort_20200819233613.scss
+* .history/src/scss/components/_sort_20200819233628.scss
+* .history/src/scss/components/_sort_20200819233630.scss
+* .history/src/scss/components/_sort_20200819233651.scss
+* .history/src/scss/components/_sort_20200819233709.scss
+* .history/src/scss/components/_sort_20200819233732.scss
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,6 +1,5 @@
 import React from 'react'
 import { Header } from './components'
-import Router from 'react-router-dom'
 
 
 export default function App() {
