@@ -17,16 +17,15 @@ export default () => {
     // Refs
     const sortRef = useRef()
 
-
-    // -----------
     const hidePopupHandler = (e) => {
-       console.log(useRef.current)
+       
     }
 
     const showPopupHandler = () => {
         setShowPopup(!showPopup)
     }
 
+    console.log(sortRef.current)
 
     return (
         <div className="sort" ref={sortRef}>

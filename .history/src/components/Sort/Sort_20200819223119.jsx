@@ -20,7 +20,7 @@ export default () => {
 
     // -----------
     const hidePopupHandler = (e) => {
-       console.log(useRef.current)
+       
     }
 
     const showPopupHandler = () => {

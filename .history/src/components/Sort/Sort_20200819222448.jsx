@@ -14,22 +14,16 @@ export default () => {
     }, [showPopup])
 
 
-    // Refs
-    const sortRef = useRef()
-
-
-    // -----------
     const hidePopupHandler = (e) => {
-       console.log(useRef.current)
+       
     }
 
     const showPopupHandler = () => {
         setShowPopup(!showPopup)
     }
 
-
     return (
-        <div className="sort" ref={sortRef}>
+        <div className="sort">
             <div className="sort__label">
                 <svg
                     width="10"

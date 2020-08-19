@@ -11,7 +11,7 @@ export default () => {
     // Effect
     useEffect(() => {
         document.body.addEventListener('click', hidePopupHandler)
-    }, [showPopup])
+    }, [])
 
 
     // Refs

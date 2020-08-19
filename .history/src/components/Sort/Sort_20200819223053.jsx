@@ -10,7 +10,9 @@ export default () => {
 
     // Effect
     useEffect(() => {
-        document.body.addEventListener('click', hidePopupHandler)
+        document.body.addEventListener('click', e => {
+            console.log(e.path)
+        })
     }, [showPopup])
 
 
@@ -19,9 +21,7 @@ export default () => {
 
 
     // -----------
-    const hidePopupHandler = (e) => {
-       console.log(useRef.current)
-    }
+   
 
     const showPopupHandler = () => {
         setShowPopup(!showPopup)

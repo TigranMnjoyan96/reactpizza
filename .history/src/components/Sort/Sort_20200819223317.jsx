@@ -20,7 +20,7 @@ export default () => {
 
     // -----------
     const hidePopupHandler = (e) => {
-       console.log(useRef.current)
+       
     }
 
     const showPopupHandler = () => {
@@ -29,7 +29,7 @@ export default () => {
 
 
     return (
-        <div className="sort" ref={sortRef}>
+        <div className="sort" ref={(ref) => sortRef.current = ref}>
             <div className="sort__label">
                 <svg
                     width="10"
