@@ -1,0 +1,66 @@
+-------------------- Auto-Git Log --------------------
+		Thu Aug 20 2020 00:18:52 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* src/App.jsx
+* src/components/index.js
+* src/index.js
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-19-7-2020-23-48-43.txt
+* .history/src/App_20200820000511.jsx
+* .history/src/App_20200820001639.jsx
+* .history/src/App_20200820001811.jsx
+* .history/src/App_20200820001832.jsx
+* .history/src/App_20200820001845.jsx
+* .history/src/components/index_20200819235143.js
+* .history/src/index_20200808000358.js
+* .history/src/index_20200819235208.js
+* .history/src/index_20200819235253.js
+* .history/src/index_20200819235309.js
+* .history/src/index_20200819235342.js
+* .history/src/index_20200819235403.js
+* .history/src/index_20200820000534.js
+* .history/src/index_20200820000548.js
+* .history/src/index_20200820000551.js
+* .history/src/index_20200820000557.js
+* .history/src/index_20200820000610.js
+* .history/src/index_20200820000615.js
+* .history/src/index_20200820000640.js
+* .history/src/index_20200820000657.js
+* .history/src/index_20200820000705.js
+* .history/src/index_20200820000706.js
+* .history/src/index_20200820000750.js
+* .history/src/index_20200820000752.js
+* .history/src/index_20200820000759.js
+* .history/src/index_20200820000806.js
+* .history/src/index_20200820000840.js
+* .history/src/index_20200820000844.js
+* .history/src/index_20200820000845.js
+* .history/src/index_20200820000858.js
+* .history/src/index_20200820000902.js
+* .history/src/index_20200820000903.js
+* .history/src/index_20200820000913.js
+* .history/src/index_20200820000922.js
+* .history/src/index_20200820000951.js
+* .history/src/index_20200820000952.js
+* .history/src/index_20200820001059.js
+* .history/src/index_20200820001104.js
+* .history/src/index_20200820001226.js
+* .history/src/pages/Cart_20200819235739.jsx
+* .history/src/pages/Cart_20200819235812.jsx
+* .history/src/pages/Home_20200819235733.jsx
+* .history/src/pages/Home_20200820000518.jsx
+* .history/src/pages/Home_20200820000520.jsx
+* src/pages/Cart.jsx
+* src/pages/Home.jsx
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Header } from './components'
-import { Home, Cart } from './pages/index'
+import { Home } from './pages/index'
 import { Route } from 'react-router-dom'
 
 
@@ -9,8 +9,7 @@ export default function App() {
         <div className="wrapper">
             <Header />
             <div className="content">
-                <Route path="/" component={Home} exact />
-                <Route path="/cart" component={Cart} />
+                <Route path="/" component={Home}/>
             </div>
         </div>
     )
