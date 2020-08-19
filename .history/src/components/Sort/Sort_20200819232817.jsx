@@ -30,6 +30,7 @@ export default () => {
     }
 
     const selectItem = (index) => {
+        console.log(index)
         setActiveItem(index)
         setShowPopup(false)
     }
@@ -39,7 +40,6 @@ export default () => {
         <div className="sort" ref={sortRef}>
             <div className="sort__label">
                 <svg
-                    className={classNames({'rotated': showPopup})}
                     width="10"
                     height="6"
                     viewBox="0 0 10 6"
@@ -56,7 +56,7 @@ export default () => {
                 <ul>
                     {sortItem.map( (item, index) => {
                         return(
-                            <li className={classNames({'active': index === activeItem  })} key={index}  onClick={() => selectItem(index)} > { item } </li>
+                            <li className={classNames({'active': index === activeItem  })} key={index}  onClick={index => selectItem(index)} > { item } </li>
                         )
                     })}
                 </ul>

@@ -39,7 +39,6 @@ export default () => {
         <div className="sort" ref={sortRef}>
             <div className="sort__label">
                 <svg
-                    className={classNames({'rotated': showPopup})}
                     width="10"
                     height="6"
                     viewBox="0 0 10 6"
