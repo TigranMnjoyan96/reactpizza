@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Fri Aug 21 2020 23:11:37 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-21-7-2020-22-41-33.txt
+* .history/src/123_20200821230239.js
+* .history/src/App_20200821230256.jsx
+* .history/src/App_20200821230257.jsx
+* .history/src/App_20200821230813.jsx
+* .history/src/App_20200821230814.jsx
+
+
+Deleted files:
+
+
+Renamed files:
+* [object Object]
