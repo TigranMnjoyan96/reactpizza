@@ -4,7 +4,7 @@ function longest(text){
 	for(x=0; x<newtext.length ; x++){
 	array.push(newtext[x])
 }
-	array.filter(e => e.length === text[e].length)
+	array.filter(e =>  console.log(e))
 		// if(newtext[x].length < newtext[x + 1].length) {
 			
 		// }

@@ -1,0 +1,69 @@
+-------------------- Auto-Git Log --------------------
+		Fri Aug 21 2020 22:11:30 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .history/src/123_20200821213804.js
+* .history/src/123_20200821213811.js
+* .history/src/123_20200821213934.js
+* .history/src/123_20200821214033.js
+* .history/src/123_20200821214113.js
+* .history/src/123_20200821214125.js
+* .history/src/123_20200821214135.js
+* .history/src/123_20200821214222.js
+* .history/src/123_20200821214415.js
+* .history/src/123_20200821214416.js
+* .history/src/123_20200821214615.js
+* .history/src/123_20200821214632.js
+* .history/src/123_20200821214659.js
+* .history/src/123_20200821214725.js
+* .history/src/123_20200821214735.js
+* .history/src/123_20200821214831.js
+* .history/src/123_20200821214842.js
+* .history/src/123_20200821214858.js
+* .history/src/123_20200821214859.js
+* .history/src/123_20200821214908.js
+* .history/src/123_20200821214909.js
+* .history/src/123_20200821214939.js
+* .history/src/123_20200821214942.js
+* .history/src/123_20200821214943.js
+* .history/src/123_20200821214944.js
+* .history/src/123_20200821214945.js
+* .history/src/123_20200821215027.js
+* .history/src/123_20200821215032.js
+* .history/src/123_20200821215040.js
+* .history/src/123_20200821215054.js
+* .history/src/123_20200821215119.js
+* .history/src/123_20200821215122.js
+* .history/src/123_20200821215153.js
+* .history/src/123_20200821215212.js
+* .history/src/123_20200821215213.js
+* .history/src/123_20200821215218.js
+* .history/src/123_20200821215219.js
+* .history/src/123_20200821215251.js
+* .history/src/123_20200821215343.js
+* .history/src/123_20200821215405.js
+* .history/src/123_20200821215408.js
+* .history/src/123_20200821215413.js
+* .history/src/123_20200821215505.js
+* .history/src/123_20200821215516.js
+* .history/src/123_20200821215537.js
+* .history/src/123_20200821215543.js
+* .history/src/123_20200821215600.js
+* .history/src/123_20200821215604.js
+* .history/src/123_20200821220920.js
+* .history/src/123_20200821220957.js
+* .history/src/123_20200821221010.js
+* .history/src/123_20200821221053.js
+* .history/src/123_20200821221106.js
+* .history/src/123_20200821221114.js
+* src/123.js
+
+
+Deleted files:
+
+
+Renamed files:
