@@ -23,7 +23,7 @@ export default function App() {
         <div className="wrapper">
             <Header />
             <div className="content">
-                <Route path="/" component={() => <Home pizza={pizza} />} exact />
+                <Route path="/" component={Home} pizza={pizza} exact />
                 <Route path="/cart" component={Cart} />
             </div>
         </div>

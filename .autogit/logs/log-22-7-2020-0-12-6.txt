@@ -1,0 +1,62 @@
+-------------------- Auto-Git Log --------------------
+		Sat Aug 22 2020 00:12:06 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* public/db.json
+* src/App.jsx
+* src/pages/Home.jsx
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-21-7-2020-23-41-50.txt
+* .history/package_20200822000132.json
+* .history/public/db_20200821235342.json
+* .history/src/App_20200821234539.jsx
+* .history/src/App_20200821234540.jsx
+* .history/src/App_20200821234748.jsx
+* .history/src/App_20200821234813.jsx
+* .history/src/App_20200821234853.jsx
+* .history/src/App_20200821234915.jsx
+* .history/src/App_20200821234936.jsx
+* .history/src/App_20200821234937.jsx
+* .history/src/App_20200821235016.jsx
+* .history/src/App_20200821235022.jsx
+* .history/src/App_20200821235155.jsx
+* .history/src/App_20200821235221.jsx
+* .history/src/App_20200821235233.jsx
+* .history/src/App_20200821235325.jsx
+* .history/src/App_20200821235347.jsx
+* .history/src/App_20200821235404.jsx
+* .history/src/App_20200821235413.jsx
+* .history/src/App_20200821235414.jsx
+* .history/src/App_20200821235420.jsx
+* .history/src/App_20200821235426.jsx
+* .history/src/App_20200821235450.jsx
+* .history/src/App_20200821235459.jsx
+* .history/src/App_20200821235500.jsx
+* .history/src/App_20200821235509.jsx
+* .history/src/App_20200821235641.jsx
+* .history/src/App_20200822000158.jsx
+* .history/src/App_20200822000425.jsx
+* .history/src/App_20200822000452.jsx
+* .history/src/App_20200822000502.jsx
+* .history/src/App_20200822000516.jsx
+* .history/src/App_20200822000529.jsx
+* .history/src/App_20200822000601.jsx
+* .history/src/App_20200822000745.jsx
+* .history/src/App_20200822001121.jsx
+* .history/src/components/Pizza/Pizza_20200822000818.jsx
+* .history/src/components/Pizza/Pizza_20200822000844.jsx
+* .history/src/components/Pizza/Pizza_20200822001045.jsx
+* .history/src/components/Pizza/Pizza_20200822001139.jsx
+* .history/src/pages/Home_20200822001031.jsx
+* src/components/Pizza/Pizza.jsx
+
+
+Deleted files:
+
+
+Renamed files:
