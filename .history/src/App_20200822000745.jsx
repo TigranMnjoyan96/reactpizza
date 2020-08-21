@@ -22,7 +22,7 @@ export default function App() {
         <div className="wrapper">
             <Header />
             <div className="content">
-                <Route path="/" component={pizza => component(Home, pizza)} exact />
+                <Route path="/" component={Home} exact />
                 <Route path="/cart" component={Cart} />
             </div>
         </div>

@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react'
 import { Header } from './components'
 import { Home, Cart } from './pages/index'
 import { Route } from 'react-router-dom'
-import axios from 'axios'
 
 
 export default function App() {
@@ -12,17 +11,14 @@ export default function App() {
 
     // Effect 
     useEffect(() => {
-        axios.get('http://localhost:3000/db.json')
-            .then(res => {
-                setPizza(res.data.pizza)
-            })
+        fetch('')
     }, [])
 
     return (
         <div className="wrapper">
             <Header />
             <div className="content">
-                <Route path="/" component={pizza => component(Home, pizza)} exact />
+                <Route path="/" component={Home} exact />
                 <Route path="/cart" component={Cart} />
             </div>
         </div>

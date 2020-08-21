@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react'
 import { Header } from './components'
 import { Home, Cart } from './pages/index'
 import { Route } from 'react-router-dom'
-import axios from 'axios'
 
 
 export default function App() {
@@ -12,18 +11,22 @@ export default function App() {
 
     // Effect 
     useEffect(() => {
-        axios.get('http://localhost:3000/db.json')
-            .then(res => {
-                setPizza(res.data.pizza)
-            })
+        const a  = await fetch('http://localhost:3000/db.json')
+        await setPizza(a)
     }, [])
 
     return (
         <div className="wrapper">
             <Header />
             <div className="content">
-                <Route path="/" component={pizza => component(Home, pizza)} exact />
+                <Route path="/" component={Home} exact />
                 <Route path="/cart" component={Cart} />
+                <div>sssssssssss</div> 
+                {pizza.map(e => {
+                    return(
+                        <h2>{e.name}</h2>
+                    )
+                })}
             </div>
         </div>
     )
