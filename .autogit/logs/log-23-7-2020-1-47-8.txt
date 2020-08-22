@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 01:47:08 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/pages/Home.jsx
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-1-16-57.txt
+* .history/src/pages/Home_20200823013324.jsx
+
+
+Deleted files:
+
+
+Renamed files:
