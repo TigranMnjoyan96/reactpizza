@@ -7,11 +7,11 @@ import App from './App'
 
 
 
-
+const initialState = 0
 
 function counter(initialState = 0, action) {
     switch(action.type) {
-        case 'inc': return initialState += 1
+        case 'inc': return initialState++
         case 'dec': return initialState--
         default: return initialState
     }
@@ -22,12 +22,7 @@ const store = createStore(counter)
 
 store.subscribe(() => console.log(`state equals: ${store.getState()}`))
 
-store.dispatch({type: ''})
-// store.dispatch({type: 'inc'})
-// store.dispatch({type: 'inc'})
-// store.dispatch({type: 'inc'})
-// store.dispatch({type: 'inc'})
-// store.dispatch({type: 'inc'})
+store.dispatch({type: 'inc'})
 
 
 

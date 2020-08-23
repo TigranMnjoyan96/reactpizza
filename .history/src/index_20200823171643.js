@@ -22,7 +22,7 @@ const store = createStore(counter)
 
 store.subscribe(() => console.log(`state equals: ${store.getState()}`))
 
-store.dispatch({type: ''})
+store.dispatch()
 // store.dispatch({type: 'inc'})
 // store.dispatch({type: 'inc'})
 // store.dispatch({type: 'inc'})
