@@ -1,0 +1,47 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 18:50:18 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-18-20-13.txt
+* .history/src/components/Sort/Sort_20200823182044.jsx
+* .history/src/components/Sort/Sort_20200823182045.jsx
+* .history/src/redux/actions/filters_20200823182337.js
+* .history/src/redux/actions/filters_20200823182558.js
+* .history/src/redux/actions/filters_20200823182708.js
+* .history/src/redux/actions/filters_20200823183045.js
+* .history/src/redux/actions/filters_20200823184228.js
+* .history/src/redux/actions/pizzas_20200823183320.js
+* .history/src/redux/actions/pizzas_20200823184228.js
+* .history/src/redux/actions/pizzas_20200823184257.js
+* .history/src/redux/actions/pizzas_20200823184313.js
+* .history/src/redux/actions/pizzas_20200823184317.js
+* .history/src/redux/actions/pizzas_20200823184318.js
+* .history/src/redux/reducers/filter_20200823182202.js
+* .history/src/redux/reducers/filter_20200823182209.js
+* .history/src/redux/reducers/filter_20200823182319.js
+* .history/src/redux/reducers/pizzas_20200823183309.js
+* .history/src/redux/reducers/pizzas_20200823183945.js
+* .history/src/redux/reducers/pizzas_20200823183951.js
+* .history/src/redux/reducers/pizzas_20200823184020.js
+* .history/src/redux/reducers/pizzas_20200823184050.js
+* .history/src/redux/reducers/pizzas_20200823184114.js
+* .history/src/redux/reducers/pizzas_20200823184227.js
+* .history/src/redux/reducers/pizzas_20200823184253.js
+* .history/src/redux/reducers/pizzas_20200823184434.js
+* .history/src/redux/reducers/pizzas_20200823184517.js
+* .history/src/redux/reducers/pizzas_20200823184549.js
+* src/redux/actions/filters.js
+* src/redux/actions/pizzas.js
+* src/redux/reducers/filters.js
+* src/redux/reducers/pizzas.js
+
+
+Deleted files:
+* src/redux/reducers/filter.js
+
+
+Renamed files:
