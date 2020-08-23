@@ -1,0 +1,34 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 11:48:39 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Pizza/Pizza.jsx
+* src/pages/Home.jsx
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-3-17-33.txt
+* .history/src/App_20200823113853.jsx
+* .history/src/components/Pizza/Pizza_20200823114123.jsx
+* .history/src/components/Pizza/Pizza_20200823114124.jsx
+* .history/src/components/Pizza/Pizza_20200823114126.jsx
+* .history/src/components/Pizza/Pizza_20200823114229.jsx
+* .history/src/components/Pizza/Pizza_20200823114504.jsx
+* .history/src/components/Pizza/Pizza_20200823114837.jsx
+* .history/src/pages/Home_20200823113826.jsx
+* .history/src/pages/Home_20200823113840.jsx
+* .history/src/pages/Home_20200823114136.jsx
+* .history/src/pages/Home_20200823114151.jsx
+* .history/src/pages/Home_20200823114335.jsx
+* .history/src/pages/Home_20200823114336.jsx
+* .history/src/pages/Home_20200823114532.jsx
+* .history/src/pages/Home_20200823114541.jsx
+* .history/src/pages/Home_20200823114542.jsx
+* .history/src/pages/Home_20200823114724.jsx
+
+
+Deleted files:
+
+
+Renamed files:

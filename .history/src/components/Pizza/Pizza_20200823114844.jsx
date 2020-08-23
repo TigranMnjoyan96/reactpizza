@@ -1,15 +1,16 @@
 import React from 'react'
 
 
-export default ({name, imageUrl}) => {
+export default ({pizza}) => {
+    console.log(pizza)
     return(
 <div className="pizza-block">
                             <img
                                 className="pizza-block__image"
-                                src={ imageUrl }
+                                src="https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg"
                                 alt="Pizza"
                             />
-                            <h4 className="pizza-block__title">{ name }</h4>
+                            <h4 className="pizza-block__title">Пепперони Фреш с перцем</h4>
                             <div className="pizza-block__selector">
                                 <ul>
                                     <li className="active">тонкое</li>

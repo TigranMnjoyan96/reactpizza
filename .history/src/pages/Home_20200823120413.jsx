@@ -14,7 +14,7 @@ export default ({pizza}) => {
                     <div className="content__items">
                         {pizza.map(item => {
                             return(
-                                <Pizza key={item.id} { ...item } />
+                                <Pizza key={item.id} pizza={ item } />
                             )
                         })}
                      </div>

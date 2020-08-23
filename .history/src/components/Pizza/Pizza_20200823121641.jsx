@@ -6,10 +6,10 @@ export default ({name, imageUrl}) => {
 <div className="pizza-block">
                             <img
                                 className="pizza-block__image"
-                                src={ imageUrl }
+                                src="sldkvs"
                                 alt="Pizza"
                             />
-                            <h4 className="pizza-block__title">{ name }</h4>
+                            <h4 className="pizza-block__title">name</h4>
                             <div className="pizza-block__selector">
                                 <ul>
                                     <li className="active">тонкое</li>
