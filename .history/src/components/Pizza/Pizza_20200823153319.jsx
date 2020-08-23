@@ -70,12 +70,8 @@ Pizza.propTypes = {
     name: propTypes.string.isRequired,
     imageUrl: propTypes.string.isRequired,
     sizes: propTypes.array.isRequired,
-    types: propTypes.arrayOf(propTypes.number).isRequired,
+    types: propTypes.arrayOf([propTypes.number || propTypes.array]).isRequired,
 
-}
-
-Pizza.defaultProps = {
-    types: []
 }
 
 export default Pizza

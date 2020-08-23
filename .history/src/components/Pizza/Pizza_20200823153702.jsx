@@ -75,7 +75,7 @@ Pizza.propTypes = {
 }
 
 Pizza.defaultProps = {
-    types: []
+    sizes: []
 }
 
 export default Pizza
