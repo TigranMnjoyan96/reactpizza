@@ -11,7 +11,6 @@ export default ({name, imageUrl, sizes, types}) => {
 
 
     const selectActiveSize = index => setActiveSize(index)
-    const selectActiveType = index => setActiveType(index)
     
 
     return(
@@ -26,7 +25,7 @@ export default ({name, imageUrl, sizes, types}) => {
                                 <ul>
                                     {itemTypes.map((type, index) => {
                                         return(
-                                            <li onClick={() => selectActiveType(index)} className={classNames({'active': activeType === index, 'disabled': !types.includes(index)})}>{ type }</li>
+                                            <li className={classNames({'active': activeType === index, 'disabled': !types.includes(index)})}>{ type }</li>
                                         )
                                     })}
                                 </ul>

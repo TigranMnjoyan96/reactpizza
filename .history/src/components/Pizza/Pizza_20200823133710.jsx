@@ -11,7 +11,7 @@ export default ({name, imageUrl, sizes, types}) => {
 
 
     const selectActiveSize = index => setActiveSize(index)
-    const selectActiveType = index => setActiveType(index)
+    const setActiveType = index => setActiveType(index)
     
 
     return(
