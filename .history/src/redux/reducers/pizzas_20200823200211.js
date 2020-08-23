@@ -1,5 +1,5 @@
 const initialState = {
-    items: [],
+    items: [null],
     isLoading: true
 }
 
@@ -11,7 +11,7 @@ const pizzas = (state = initialState, action) => {
             items: action.payload,
             isLoading: false
         }
-        default: return state
+        default: state
     }
 }
 

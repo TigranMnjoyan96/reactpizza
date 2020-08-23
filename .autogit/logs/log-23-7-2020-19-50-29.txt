@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 19:50:29 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/redux/reducers/pizzas.js
+* src/redux/store.js
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-19-20-43.txt
+* .history/src/redux/reducers/pizzas_20200823194739.js
+* .history/src/redux/reducers/pizzas_20200823194822.js
+* .history/src/redux/reducers/pizzas_20200823194900.js
+* .history/src/redux/store_20200823194627.js
+* .history/src/redux/store_20200823194708.js
+
+
+Deleted files:
+
+
+Renamed files:
