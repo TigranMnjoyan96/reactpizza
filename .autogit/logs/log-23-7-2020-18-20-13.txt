@@ -1,0 +1,79 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 18:20:13 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Header/Button/Button.jsx
+* src/components/Sort/Sort.jsx
+* src/index.js
+* src/redux/store.js
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-17-50-13.txt
+* .history/src/components/Header/Button/Button_20200817010104.jsx
+* .history/src/components/Header/Button/Button_20200823175013.jsx
+* .history/src/components/Header/Button/Button_20200823175014.jsx
+* .history/src/components/Header/Button/Button_20200823175015.jsx
+* .history/src/components/Header/Button/Button_20200823175141.jsx
+* .history/src/components/Header/Button/Button_20200823175142.jsx
+* .history/src/components/Header/Button/Button_20200823175315.jsx
+* .history/src/components/Header/Button/Button_20200823175316.jsx
+* .history/src/components/Header/Button/Button_20200823175326.jsx
+* .history/src/components/Header/Button/Button_20200823175329.jsx
+* .history/src/components/Header/Button/Button_20200823175334.jsx
+* .history/src/components/Header/Button/Button_20200823175335.jsx
+* .history/src/components/Header/Button/Button_20200823175349.jsx
+* .history/src/components/Header/Button/Button_20200823175404.jsx
+* .history/src/components/Header/Button/Button_20200823175405.jsx
+* .history/src/components/Header/Button/Button_20200823175410.jsx
+* .history/src/components/Header/Button/Button_20200823175411.jsx
+* .history/src/components/Header/Button/Button_20200823175452.jsx
+* .history/src/components/Header/Button/Button_20200823175453.jsx
+* .history/src/components/Header/Button/Button_20200823175547.jsx
+* .history/src/components/Header/Button/Button_20200823175548.jsx
+* .history/src/components/Header/Button/Button_20200823175609.jsx
+* .history/src/components/Header/Button/Button_20200823175610.jsx
+* .history/src/components/Header/Button/Button_20200823180126.jsx
+* .history/src/components/Header/Button/Button_20200823180127.jsx
+* .history/src/components/Pizza/Pizza_20200823181216.jsx
+* .history/src/components/Pizza/Pizza_20200823181217.jsx
+* .history/src/components/Sort/Sort_20200823181444.jsx
+* .history/src/components/Sort/Sort_20200823181445.jsx
+* .history/src/components/Sort/Sort_20200823181521.jsx
+* .history/src/index_20200823175049.js
+* .history/src/index_20200823175050.js
+* .history/src/index_20200823175051.js
+* .history/src/index_20200823175052.js
+* .history/src/index_20200823175448.js
+* .history/src/index_20200823175449.js
+* .history/src/index_20200823180408.js
+* .history/src/index_20200823180409.js
+* .history/src/index_20200823180414.js
+* .history/src/index_20200823180435.js
+* .history/src/index_20200823180440.js
+* .history/src/index_20200823180441.js
+* .history/src/pages/Cart_20200823175706.jsx
+* .history/src/pages/Cart_20200823180059.jsx
+* .history/src/pages/Cart_20200823180100.jsx
+* .history/src/pages/Cart_20200823180101.jsx
+* .history/src/pages/Cart_20200823180124.jsx
+* .history/src/redux/reducers/filter_20200823180746.js
+* .history/src/redux/reducers/filter_20200823180828.js
+* .history/src/redux/reducers/filter_20200823180937.js
+* .history/src/redux/reducers/filter_20200823180953.js
+* .history/src/redux/reducers/filter_20200823181019.js
+* .history/src/redux/reducers/filter_20200823181130.js
+* .history/src/redux/reducers/filter_20200823181134.js
+* .history/src/redux/store_20200823175502.js
+* .history/src/redux/store_20200823175536.js
+* .history/src/redux/store_20200823175744.js
+* .history/src/redux/store_20200823180129.js
+* .history/src/redux/store_20200823180130.js
+* src/redux/reducers/filter.js
+
+
+Deleted files:
+
+
+Renamed files:
