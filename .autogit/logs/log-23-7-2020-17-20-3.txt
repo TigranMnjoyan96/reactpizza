@@ -1,0 +1,76 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 17:20:03 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* public/test.txt
+* src/index.js
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-16-49-47.txt
+* .history/public/test_20200823164944.txt
+* .history/public/test_20200823164953.txt
+* .history/src/index_20200823165353.js
+* .history/src/index_20200823165407.js
+* .history/src/index_20200823165910.js
+* .history/src/index_20200823170103.js
+* .history/src/index_20200823170124.js
+* .history/src/index_20200823170143.js
+* .history/src/index_20200823170156.js
+* .history/src/index_20200823170210.js
+* .history/src/index_20200823170220.js
+* .history/src/index_20200823170335.js
+* .history/src/index_20200823170337.js
+* .history/src/index_20200823170355.js
+* .history/src/index_20200823170403.js
+* .history/src/index_20200823170435.js
+* .history/src/index_20200823170743.js
+* .history/src/index_20200823171004.js
+* .history/src/index_20200823171013.js
+* .history/src/index_20200823171038.js
+* .history/src/index_20200823171039.js
+* .history/src/index_20200823171126.js
+* .history/src/index_20200823171148.js
+* .history/src/index_20200823171149.js
+* .history/src/index_20200823171156.js
+* .history/src/index_20200823171157.js
+* .history/src/index_20200823171257.js
+* .history/src/index_20200823171304.js
+* .history/src/index_20200823171305.js
+* .history/src/index_20200823171324.js
+* .history/src/index_20200823171334.js
+* .history/src/index_20200823171340.js
+* .history/src/index_20200823171355.js
+* .history/src/index_20200823171359.js
+* .history/src/index_20200823171408.js
+* .history/src/index_20200823171417.js
+* .history/src/index_20200823171418.js
+* .history/src/index_20200823171423.js
+* .history/src/index_20200823171424.js
+* .history/src/index_20200823171456.js
+* .history/src/index_20200823171457.js
+* .history/src/index_20200823171509.js
+* .history/src/index_20200823171510.js
+* .history/src/index_20200823171511.js
+* .history/src/index_20200823171517.js
+* .history/src/index_20200823171518.js
+* .history/src/index_20200823171521.js
+* .history/src/index_20200823171528.js
+* .history/src/index_20200823171546.js
+* .history/src/index_20200823171547.js
+* .history/src/index_20200823171608.js
+* .history/src/index_20200823171614.js
+* .history/src/index_20200823171630.js
+* .history/src/index_20200823171643.js
+* .history/src/index_20200823171652.js
+* .history/src/index_20200823171653.js
+* .history/src/index_20200823171701.js
+
+
+Deleted files:
+
+
+Renamed files:

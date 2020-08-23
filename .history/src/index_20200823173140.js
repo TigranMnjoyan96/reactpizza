@@ -1,13 +1,35 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
+import { createStore } from 'redux'
 import './scss/app.scss'
 import App from './App'
-import store from './redux/store'
 
 
 
-console.log(store)
+const initialState = 0
+
+function counter(state = initialState, action) {
+    switch(action.type) {
+        case 'inc': return state++
+        case 'dec': return state--
+        default: return state
+    }
+}
+
+
+const store = createStore(counter)
+
+store.subscribe(() => console.log(`state equals: ${store.getState()}`))
+
+console.log(store.getState())
+store.dispatch({type: 'inc'})
+store.dispatch({type: 'inc'})
+store.dispatch({type: 'inc'})
+store.dispatch({type: 'inc'})
+store.dispatch({type: 'inc'})
+
+
 
 ReactDOM.render(
 
