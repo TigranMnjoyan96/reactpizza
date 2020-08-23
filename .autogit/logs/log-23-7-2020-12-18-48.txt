@@ -1,0 +1,64 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 12:18:48 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Pizza/Pizza.jsx
+* src/pages/Home.jsx
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-11-48-39.txt
+* .history/src/components/Pizza/Pizza_20200823114844.jsx
+* .history/src/components/Pizza/Pizza_20200823114903.jsx
+* .history/src/components/Pizza/Pizza_20200823114909.jsx
+* .history/src/components/Pizza/Pizza_20200823114947.jsx
+* .history/src/components/Pizza/Pizza_20200823115015.jsx
+* .history/src/components/Pizza/Pizza_20200823115023.jsx
+* .history/src/components/Pizza/Pizza_20200823115108.jsx
+* .history/src/components/Pizza/Pizza_20200823115109.jsx
+* .history/src/components/Pizza/Pizza_20200823115121.jsx
+* .history/src/components/Pizza/Pizza_20200823115127.jsx
+* .history/src/components/Pizza/Pizza_20200823115135.jsx
+* .history/src/components/Pizza/Pizza_20200823115934.jsx
+* .history/src/components/Pizza/Pizza_20200823115956.jsx
+* .history/src/components/Pizza/Pizza_20200823120003.jsx
+* .history/src/components/Pizza/Pizza_20200823120012.jsx
+* .history/src/components/Pizza/Pizza_20200823120016.jsx
+* .history/src/components/Pizza/Pizza_20200823120020.jsx
+* .history/src/components/Pizza/Pizza_20200823120040.jsx
+* .history/src/components/Pizza/Pizza_20200823120056.jsx
+* .history/src/components/Pizza/Pizza_20200823120100.jsx
+* .history/src/components/Pizza/Pizza_20200823120129.jsx
+* .history/src/components/Pizza/Pizza_20200823120130.jsx
+* .history/src/components/Pizza/Pizza_20200823120432.jsx
+* .history/src/components/Pizza/Pizza_20200823120444.jsx
+* .history/src/components/Pizza/Pizza_20200823120449.jsx
+* .history/src/components/Pizza/Pizza_20200823121041.jsx
+* .history/src/components/Pizza/Pizza_20200823121222.jsx
+* .history/src/components/Pizza/Pizza_20200823121230.jsx
+* .history/src/components/Pizza/Pizza_20200823121310.jsx
+* .history/src/components/Pizza/Pizza_20200823121426.jsx
+* .history/src/components/Pizza/Pizza_20200823121436.jsx
+* .history/src/components/Pizza/Pizza_20200823121600.jsx
+* .history/src/components/Pizza/Pizza_20200823121632.jsx
+* .history/src/components/Pizza/Pizza_20200823121641.jsx
+* .history/src/components/Pizza/Pizza_20200823121657.jsx
+* .history/src/pages/Home_20200823115102.jsx
+* .history/src/pages/Home_20200823115103.jsx
+* .history/src/pages/Home_20200823120035.jsx
+* .history/src/pages/Home_20200823120036.jsx
+* .history/src/pages/Home_20200823120147.jsx
+* .history/src/pages/Home_20200823120311.jsx
+* .history/src/pages/Home_20200823120312.jsx
+* .history/src/pages/Home_20200823120413.jsx
+* .history/src/pages/Home_20200823121031.jsx
+* .history/src/pages/Home_20200823121212.jsx
+* .history/src/pages/Home_20200823121555.jsx
+* .history/src/pages/Home_20200823121557.jsx
+
+
+Deleted files:
+
+
+Renamed files:

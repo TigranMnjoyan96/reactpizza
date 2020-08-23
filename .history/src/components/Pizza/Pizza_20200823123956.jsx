@@ -6,7 +6,6 @@ export default ({name, imageUrl, sizes, types}) => {
     const itemTypes = ['тонкое', 'традиционное']
 
     const [activeSize, setActiveSize] = useState(0)
-    const [activeType, setActiveType] = useState(types[0])
 
     return(
 <div className="pizza-block">
@@ -20,7 +19,7 @@ export default ({name, imageUrl, sizes, types}) => {
                                 <ul>
                                     {itemTypes.map((type, index) => {
                                         return(
-                                            <li className={classNames({'active': activeType === index})}>{ type }</li>
+                                            <li className="active">{ type }</li>
                                         )
                                     })}
                                 </ul>

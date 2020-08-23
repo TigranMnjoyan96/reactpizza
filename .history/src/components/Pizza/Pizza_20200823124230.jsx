@@ -6,7 +6,7 @@ export default ({name, imageUrl, sizes, types}) => {
     const itemTypes = ['тонкое', 'традиционное']
 
     const [activeSize, setActiveSize] = useState(0)
-    const [activeType, setActiveType] = useState(types[0])
+    const [activeType, setActiveType] = useState(types)
 
     return(
 <div className="pizza-block">

@@ -1,13 +1,7 @@
-import React, {useState} from 'react'
-import classNames from 'classnames'
+import React from 'react'
 
 
-export default ({name, imageUrl, sizes, types}) => {
-    const itemTypes = ['тонкое', 'традиционное']
-
-    const [activeSize, setActiveSize] = useState(0)
-    const [activeType, setActiveType] = useState(types[0])
-
+export default ({name, imageUrl, sizes}) => {
     return(
 <div className="pizza-block">
                             <img
@@ -18,18 +12,14 @@ export default ({name, imageUrl, sizes, types}) => {
                             <h4 className="pizza-block__title">{ name }</h4>
                             <div className="pizza-block__selector">
                                 <ul>
-                                    {itemTypes.map((type, index) => {
-                                        return(
-                                            <li className={classNames({'active': activeType === index})}>{ type }</li>
-                                        )
-                                    })}
+                                    <li className="active">тонкое</li>
+                                    <li>традиционное</li>
                                 </ul>
                                 <ul>
-                                    { sizes.map((size, index) => {
-                                        return(
-                                            <li onClick={() => setActiveSize(index)} className={classNames({'active': index === activeSize})}>{ size }</li>
-                                        )
-                                    }) }
+                                    <li className="active">26 см.
+                                    </li>
+                                    <li>30 см.</li>
+                                    <li>40 см.</li>
                                 </ul>
                             </div>
                             <div className="pizza-block__bottom">

@@ -2,11 +2,11 @@ import React, {useState} from 'react'
 import classNames from 'classnames'
 
 
-export default ({name, imageUrl, sizes, types}) => {
-    const itemTypes = ['тонкое', 'традиционное']
+export default ({name, imageUrl, sizes}) => {
+
+    const types = ['тонкое', 'традиционное']
 
     const [activeSize, setActiveSize] = useState(0)
-    const [activeType, setActiveType] = useState(types[0])
 
     return(
 <div className="pizza-block">
@@ -18,11 +18,8 @@ export default ({name, imageUrl, sizes, types}) => {
                             <h4 className="pizza-block__title">{ name }</h4>
                             <div className="pizza-block__selector">
                                 <ul>
-                                    {itemTypes.map((type, index) => {
-                                        return(
-                                            <li className={classNames({'active': activeType === index})}>{ type }</li>
-                                        )
-                                    })}
+                                    <li className="active">тонкое</li>
+                                    <li>традиционное</li>
                                 </ul>
                                 <ul>
                                     { sizes.map((size, index) => {
