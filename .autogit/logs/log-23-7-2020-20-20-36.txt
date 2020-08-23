@@ -1,0 +1,55 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 20:20:36 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/redux/actions/filters.js
+* src/redux/reducers/pizzas.js
+* src/redux/store.js
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-19-50-29.txt
+* .history/src/redux/actions/filters_20200823201606.js
+* .history/src/redux/reducers/index_20200823200735.js
+* .history/src/redux/reducers/index_20200823200844.js
+* .history/src/redux/reducers/index_20200823200851.js
+* .history/src/redux/reducers/index_20200823200855.js
+* .history/src/redux/reducers/index_20200823201013.js
+* .history/src/redux/reducers/index_20200823201020.js
+* .history/src/redux/reducers/index_20200823201021.js
+* .history/src/redux/reducers/index_20200823201037.js
+* .history/src/redux/reducers/index_20200823201105.js
+* .history/src/redux/reducers/index_20200823201106.js
+* .history/src/redux/reducers/index_20200823201200.js
+* .history/src/redux/reducers/index_20200823201212.js
+* .history/src/redux/reducers/index_20200823201213.js
+* .history/src/redux/reducers/pizzas_20200823200102.js
+* .history/src/redux/reducers/pizzas_20200823200138.js
+* .history/src/redux/reducers/pizzas_20200823200211.js
+* .history/src/redux/reducers/pizzas_20200823200213.js
+* .history/src/redux/reducers/pizzas_20200823200218.js
+* .history/src/redux/reducers/pizzas_20200823200227.js
+* .history/src/redux/reducers/pizzas_20200823200251.js
+* .history/src/redux/reducers/pizzas_20200823200256.js
+* .history/src/redux/reducers/pizzas_20200823200453.js
+* .history/src/redux/reducers/pizzas_20200823200552.js
+* .history/src/redux/store_20200823200509.js
+* .history/src/redux/store_20200823200510.js
+* .history/src/redux/store_20200823200920.js
+* .history/src/redux/store_20200823200925.js
+* .history/src/redux/store_20200823200932.js
+* .history/src/redux/store_20200823200939.js
+* .history/src/redux/store_20200823200946.js
+* .history/src/redux/store_20200823201001.js
+* .history/src/redux/store_20200823201002.js
+* .history/src/redux/store_20200823201045.js
+* .history/src/redux/store_20200823201046.js
+* .history/src/redux/store_20200823201100.js
+* src/redux/reducers/index.js
+
+
+Deleted files:
+
+
+Renamed files:
