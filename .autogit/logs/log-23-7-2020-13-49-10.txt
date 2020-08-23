@@ -1,0 +1,39 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 13:49:10 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* src/components/Pizza/Pizza.jsx
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-13-19-1.txt
+* .history/src/components/Pizza/Pizza_20200823131910.jsx
+* .history/src/components/Pizza/Pizza_20200823131928.jsx
+* .history/src/components/Pizza/Pizza_20200823131947.jsx
+* .history/src/components/Pizza/Pizza_20200823132330.jsx
+* .history/src/components/Pizza/Pizza_20200823132357.jsx
+* .history/src/components/Pizza/Pizza_20200823132550.jsx
+* .history/src/components/Pizza/Pizza_20200823133030.jsx
+* .history/src/components/Pizza/Pizza_20200823133037.jsx
+* .history/src/components/Pizza/Pizza_20200823133038.jsx
+* .history/src/components/Pizza/Pizza_20200823133044.jsx
+* .history/src/components/Pizza/Pizza_20200823133121.jsx
+* .history/src/components/Pizza/Pizza_20200823133122.jsx
+* .history/src/components/Pizza/Pizza_20200823133150.jsx
+* .history/src/components/Pizza/Pizza_20200823133151.jsx
+* .history/src/components/Pizza/Pizza_20200823133338.jsx
+* .history/src/components/Pizza/Pizza_20200823133345.jsx
+* .history/src/components/Pizza/Pizza_20200823133415.jsx
+* .history/src/components/Pizza/Pizza_20200823133440.jsx
+* .history/src/components/Pizza/Pizza_20200823133522.jsx
+* .history/src/components/Pizza/Pizza_20200823133545.jsx
+* .history/src/components/Pizza/Pizza_20200823133710.jsx
+* .history/src/components/Pizza/Pizza_20200823133719.jsx
+
+
+Deleted files:
+
+
+Renamed files:
