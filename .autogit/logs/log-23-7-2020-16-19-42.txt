@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 16:19:42 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-15-49-36.txt
+
+
+Deleted files:
+
+
+Renamed files:
