@@ -1,0 +1,52 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 21:20:48 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/App.jsx
+* src/redux/actions/pizzas.js
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-20-50-41.txt
+* .history/src/App_20200823205229.jsx
+* .history/src/App_20200823205319.jsx
+* .history/src/App_20200823205355.jsx
+* .history/src/App_20200823205411.jsx
+* .history/src/App_20200823205418.jsx
+* .history/src/App_20200823205450.jsx
+* .history/src/App_20200823205934.jsx
+* .history/src/App_20200823210038.jsx
+* .history/src/App_20200823210059.jsx
+* .history/src/App_20200823210118.jsx
+* .history/src/App_20200823210133.jsx
+* .history/src/App_20200823210137.jsx
+* .history/src/App_20200823210138.jsx
+* .history/src/App_20200823210152.jsx
+* .history/src/App_20200823210201.jsx
+* .history/src/App_20200823210228.jsx
+* .history/src/App_20200823210246.jsx
+* .history/src/App_20200823210433.jsx
+* .history/src/App_20200823210557.jsx
+* .history/src/App_20200823210611.jsx
+* .history/src/App_20200823210636.jsx
+* .history/src/App_20200823210711.jsx
+* .history/src/App_20200823210716.jsx
+* .history/src/App_20200823210721.jsx
+* .history/src/App_20200823210731.jsx
+* .history/src/App_20200823210802.jsx
+* .history/src/App_20200823210808.jsx
+* .history/src/App_20200823210824.jsx
+* .history/src/App_20200823211127.jsx
+* .history/src/App_20200823211233.jsx
+* .history/src/App_20200823211309.jsx
+* .history/src/App_20200823211311.jsx
+* .history/src/App_20200823211338.jsx
+* .history/src/redux/actions/pizzas_20200823205820.js
+* .history/src/redux/actions/pizzas_20200823210005.js
+
+
+Deleted files:
+
+
+Renamed files:

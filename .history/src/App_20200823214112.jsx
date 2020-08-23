@@ -24,7 +24,7 @@ class App extends Component {
             <div className="wrapper">
             <Header />
             <div className="content">
-               <Route path="/" component={() => <Home pizza={this.props.items.items} />} exact />
+               <Route path="/" component={() => <Home pizza={this.props.items} />} exact />
                  <Route path="/cart" component={Cart} /> 
             </div>
         </div>

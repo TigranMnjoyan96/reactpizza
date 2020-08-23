@@ -10,21 +10,22 @@ import { setPizzas } from './redux/actions/pizzas';
 
 class App extends Component {
 
+    state = {
+        pizzas: []
+    }
 
     componentDidMount() {
         axios.get('http://localhost:3000/db.json')
             .then(res => {
-                console.log(this.props, 9)
                 this.props.setPizzas(res.data.pizza)
             })
     }
     render() {
-        console.log(this.props.items.items, 555)
         return (
             <div className="wrapper">
             <Header />
             <div className="content">
-               <Route path="/" component={() => <Home pizza={this.props.items.items} />} exact />
+               <Route path="/" component={() => <Home pizza={this.state.pizza} />} exact />
                  <Route path="/cart" component={Cart} /> 
             </div>
         </div>
