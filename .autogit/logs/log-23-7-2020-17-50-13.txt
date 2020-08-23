@@ -1,0 +1,58 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 17:50:13 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* src/components/Header/Button/Button.jsx
+* src/index.js
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-17-20-3.txt
+* .history/src/index_20200823173017.js
+* .history/src/index_20200823173018.js
+* .history/src/index_20200823173031.js
+* .history/src/index_20200823173121.js
+* .history/src/index_20200823173131.js
+* .history/src/index_20200823173140.js
+* .history/src/index_20200823173206.js
+* .history/src/index_20200823173255.js
+* .history/src/index_20200823173304.js
+* .history/src/index_20200823173630.js
+* .history/src/index_20200823174104.js
+* .history/src/index_20200823174113.js
+* .history/src/index_20200823174114.js
+* .history/src/index_20200823174119.js
+* .history/src/index_20200823174141.js
+* .history/src/index_20200823174159.js
+* .history/src/index_20200823174200.js
+* .history/src/index_20200823174227.js
+* .history/src/index_20200823174301.js
+* .history/src/index_20200823174311.js
+* .history/src/index_20200823174312.js
+* .history/src/index_20200823174339.js
+* .history/src/index_20200823174340.js
+* .history/src/redux/store_20200823173708.js
+* .history/src/redux/store_20200823173754.js
+* .history/src/redux/store_20200823173755.js
+* .history/src/redux/store_20200823174003.js
+* .history/src/redux/store_20200823174011.js
+* .history/src/redux/store_20200823174025.js
+* .history/src/redux/store_20200823174031.js
+* .history/src/redux/store_20200823174032.js
+* .history/src/redux/store_20200823174237.js
+* .history/src/redux/store_20200823174238.js
+* .history/src/redux/store_20200823174242.js
+* .history/src/redux/store_20200823174245.js
+* .history/src/redux/store_20200823174331.js
+* .history/src/redux/store_20200823174406.js
+* .history/src/redux/store_20200823174407.js
+* src/redux/store.js
+
+
+Deleted files:
+
+
+Renamed files:

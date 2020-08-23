@@ -56,7 +56,7 @@ export default () => {
                 <ul>
                     {sortItem.map( (item, index) => {
                         return(
-                            <li className={classNames({'active': index === activeItem  })} key={index}  onClick={() => selectItem(index)} > { item.name } </li>
+                            <li className={classNames({'active': index === activeItem  })} key={index}  onClick={() => selectItem(index)} > { item } </li>
                         )
                     })}
                 </ul>
