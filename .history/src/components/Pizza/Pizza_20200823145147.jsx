@@ -4,7 +4,7 @@ import propTypes from 'prop-types'
 
 
 
-const Pizza =  ({name, imageUrl, sizes, types}) => {
+export default ({name, imageUrl, sizes, types}) => {
 
     const itemTypes = ['тонкое', 'традиционное']
     const availableSizes = [26, 30, 40]
@@ -29,14 +29,14 @@ const Pizza =  ({name, imageUrl, sizes, types}) => {
                                 <ul>
                                     {itemTypes.map((type, index) => {
                                         return(
-                                            <li key={index} onClick={() => selectActiveType(index)} className={classNames({'active': activeType === index, 'disabled': !types.includes(index)})}>{ type }</li>
+                                            <li onClick={() => selectActiveType(index)} className={classNames({'active': activeType === index, 'disabled': !types.includes(index)})}>{ type }</li>
                                         )
                                     })}
                                 </ul>
                                 <ul>
                                     { availableSizes.map((size, index) => {
                                         return(
-                                            <li key={index} onClick={() => selectActiveSize(size)} className={classNames({'active': size === activeSize && sizes.includes(size), 'disabled': !sizes.includes(size)})}>{ size }</li>
+                                            <li onClick={() => selectActiveSize(size)} className={classNames({'active': size === activeSize && sizes.includes(size), 'disabled': !sizes.includes(size)})}>{ size }</li>
                                         )
                                     }) }
                                 </ul>
@@ -64,14 +64,3 @@ const Pizza =  ({name, imageUrl, sizes, types}) => {
         
     )
 }
-
-
-Pizza.propTypes = {
-    name: propTypes.string.isRequired,
-    imageUrl: propTypes.string.isRequired,
-    sizes: propTypes.array,
-    types: propTypes.array,
-
-}
-
-export default Pizza

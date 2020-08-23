@@ -66,11 +66,8 @@ const Pizza =  ({name, imageUrl, sizes, types}) => {
 }
 
 
-Pizza.propTypes = {
-    name: propTypes.string.isRequired,
-    imageUrl: propTypes.string.isRequired,
-    sizes: propTypes.array,
-    types: propTypes.array,
+Pizza.PropTypes = {
+    name: PropTypes.string.isRequired
 
 }
 

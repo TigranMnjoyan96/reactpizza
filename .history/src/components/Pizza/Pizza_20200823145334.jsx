@@ -4,7 +4,7 @@ import propTypes from 'prop-types'
 
 
 
-const Pizza =  ({name, imageUrl, sizes, types}) => {
+export default ({name, imageUrl, sizes, types}) => {
 
     const itemTypes = ['тонкое', 'традиционное']
     const availableSizes = [26, 30, 40]
@@ -67,11 +67,5 @@ const Pizza =  ({name, imageUrl, sizes, types}) => {
 
 
 Pizza.propTypes = {
-    name: propTypes.string.isRequired,
-    imageUrl: propTypes.string.isRequired,
-    sizes: propTypes.array,
-    types: propTypes.array,
-
+    name: 
 }
-
-export default Pizza

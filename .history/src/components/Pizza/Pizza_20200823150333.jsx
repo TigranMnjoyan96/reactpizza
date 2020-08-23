@@ -68,10 +68,6 @@ const Pizza =  ({name, imageUrl, sizes, types}) => {
 
 Pizza.propTypes = {
     name: propTypes.string.isRequired,
-    imageUrl: propTypes.string.isRequired,
-    sizes: propTypes.array,
-    types: propTypes.array,
-
 }
 
 export default Pizza
