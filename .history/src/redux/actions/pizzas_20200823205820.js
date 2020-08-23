@@ -1,4 +1,4 @@
-export const setPizzas = (items) => ({
+export const setSortyBy = (items) => ({
     type: 'SET_PIZZAS',
     payload: items
 })

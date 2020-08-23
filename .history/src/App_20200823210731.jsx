@@ -16,7 +16,6 @@ class App extends Component {
     componentDidMount() {
         axios.get('http://localhost:3000/db.json')
             .then(res => {
-                
             })
     }
     render() {
@@ -35,8 +34,8 @@ class App extends Component {
 }
 
 
-const mapStateToProps = state => ({items: state.pizzasReducer})
-
-const mapDispatcToProps = () => ({})
+const mapStateToProps = state => {
+    console.log(state)
+}
 
 export default connect(mapStateToProps, mapDispatcToProps)(App)

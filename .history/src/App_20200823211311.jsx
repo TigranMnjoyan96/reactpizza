@@ -16,7 +16,6 @@ class App extends Component {
     componentDidMount() {
         axios.get('http://localhost:3000/db.json')
             .then(res => {
-                
             })
     }
     render() {

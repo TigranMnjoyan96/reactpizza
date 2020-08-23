@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sun Aug 23 2020 20:50:41 GMT+0400 (Армения, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/App.jsx
+* src/redux/store.js
+
+
+Created files:
+* .autogit/logs/log-23-7-2020-20-20-36.txt
+* .history/src/App_20200823204941.jsx
+* .history/src/App_20200823205016.jsx
+* .history/src/index_20200823203920.js
+* .history/src/redux/store_20200823202047.js
+
+
+Deleted files:
+
+
+Renamed files:

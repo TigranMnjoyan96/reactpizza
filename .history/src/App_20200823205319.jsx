@@ -16,7 +16,10 @@ class App extends Component {
     componentDidMount() {
         axios.get('http://localhost:3000/db.json')
             .then(res => {
-                
+                console.log(res)
+                // this.setState({
+                //     pizzas: res.data
+                // })
             })
     }
     render() {
@@ -24,8 +27,8 @@ class App extends Component {
             <div className="wrapper">
             <Header />
             <div className="content">
-                 {/* <Route path="/" component={() => <Home pizza={this.state.pizza} />} exact />
-                 <Route path="/cart" component={Cart} />  */}
+                {/* <Route path="/" component={() => <Home pizza={pizza} />} exact />
+                <Route path="/cart" component={Cart} /> */}
             </div>
         </div>
 
@@ -35,8 +38,4 @@ class App extends Component {
 }
 
 
-const mapStateToProps = state => ({items: state.pizzasReducer})
-
-const mapDispatcToProps = () => ({})
-
-export default connect(mapStateToProps, mapDispatcToProps)(App)
+export default connect()(App)
