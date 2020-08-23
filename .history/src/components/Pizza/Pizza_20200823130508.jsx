@@ -26,9 +26,9 @@ export default ({name, imageUrl, sizes, types}) => {
                                     })}
                                 </ul>
                                 <ul>
-                                    { availableSizes.map((size, index) => {
+                                    { sizes.map((size, index) => {
                                         return(
-                                            <li onClick={() => setActiveSize(index)} className={classNames({'active': sizes.includes(size), 'disabled': !sizes.includes(size)})}>{ size }</li>
+                                            <li onClick={() => setActiveSize(index)} className={classNames({'active': index === activeSize})}>{ size }</li>
                                         )
                                     }) }
                                 </ul>

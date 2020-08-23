@@ -6,7 +6,7 @@ export default ({name, imageUrl, sizes, types}) => {
     const itemTypes = ['тонкое', 'традиционное']
     const availableSizes = [26, 30, 40]
 
-    const [activeSize, setActiveSize] = useState(0)
+    const [activeSize, setActiveSize] = useState(sizes[0])
     const [activeType, setActiveType] = useState(types[0])
 
     return(
@@ -28,7 +28,7 @@ export default ({name, imageUrl, sizes, types}) => {
                                 <ul>
                                     { availableSizes.map((size, index) => {
                                         return(
-                                            <li onClick={() => setActiveSize(index)} className={classNames({'active': sizes.includes(size), 'disabled': !sizes.includes(size)})}>{ size }</li>
+                                            <li onClick={() => setActiveSize(index)} className={classNames({'active': index === activeSize, 'disabled': !sizes.includes(size)})}>{ size }</li>
                                         )
                                     }) }
                                 </ul>
