@@ -35,7 +35,7 @@ state  = {
                  <Route path="/cart" component={Cart} /> 
             </div>
             <div>
-                {user.map(e => {
+                {this.state.users.map(e => {
                     return(
                         <h1>{e.name}</h1>
                     )
