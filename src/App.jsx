@@ -10,13 +10,20 @@ import { setPizzas } from './redux/actions/pizzas';
 
 class App extends Component {
 
-
+state  = {
+    users: []
+}
     componentDidMount() {
         axios.get('http://localhost:3000/db.json')
             .then(res => {
                 console.log(this.props, 9)
                 this.props.setPizzas(res.data.pizza)
             })
+
+            axios.get('https://jsonplaceholder.typicode.com/users')
+                .then(res => {
+                    this.setState({users: res.data})
+                })
     }
     render() {
         console.log(this.props.items.items, 555)
@@ -26,6 +33,13 @@ class App extends Component {
             <div className="content">
                <Route path="/" component={() => <Home pizza={this.props.items.items} />} exact />
                  <Route path="/cart" component={Cart} /> 
+            </div>
+            <div>
+                {user.map(e => {
+                    return(
+                        <h1>{e.name}</h1>
+                    )
+                })}
             </div>
         </div>
 
